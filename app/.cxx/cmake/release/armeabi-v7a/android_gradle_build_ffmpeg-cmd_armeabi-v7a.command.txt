@@ -1,0 +1,8 @@
+Executable : D:\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\Gitbub\AndroidTranscoder\app\.cxx\cmake\release\armeabi-v7a
+--target
+ffmpeg-cmd
+jvmArgs : 
+

@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Gitbub\\AndroidTranscoder",
+      "sdkFolder": "D:\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Gitbub\\AndroidTranscoder\\app",
+      "makeFile": "D:\\Gitbub\\AndroidTranscoder\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Gitbub\\AndroidTranscoder\\.cxx",
+      "cxxFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx",
+      "ndkFolder": "D:\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 22,
+  "cxxBuildFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "D:\\Gitbub\\AndroidTranscoder\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}

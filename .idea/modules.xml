@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTranscoder.iml" filepath="$PROJECT_DIR$/AndroidTranscoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidTranscoder-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidTranscoder-app.iml" group="AndroidTranscoder/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gitbub-AndroidTranscoder.iml" filepath="$PROJECT_DIR$/.idea/modules/Gitbub-AndroidTranscoder.iml" group="AndroidTranscoder" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libary/libary.iml" filepath="$PROJECT_DIR$/.idea/modules/libary/libary.iml" group="AndroidTranscoder/libary" />
+    </modules>
+  </component>
+</project>

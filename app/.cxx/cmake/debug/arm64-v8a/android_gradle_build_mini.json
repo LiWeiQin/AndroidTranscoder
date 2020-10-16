@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "D:\\Gitbub\\AndroidTranscoder\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "ffmpeg-cmd-Debug-arm64-v8a": {
+      "artifactName": "ffmpeg-cmd",
+      "buildCommand": "D:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Gitbub\\AndroidTranscoder\\app\\.cxx\\cmake\\debug\\arm64-v8a --target ffmpeg-cmd",
+      "abi": "arm64-v8a",
+      "output": "D:\\Gitbub\\AndroidTranscoder\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libffmpeg-cmd.so"
+    },
+    "libffmpeg-Debug-arm64-v8a": {
+      "artifactName": "libffmpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\Gitbub\\AndroidTranscoder\\app\\src\\main\\cpp\\ffmpeg\\prebuilt\\arm64-v8a\\libffmpeg.so"
+    }
+  }
+}

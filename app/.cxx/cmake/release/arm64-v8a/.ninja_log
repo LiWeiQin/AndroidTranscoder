@@ -1,0 +1,8 @@
+# ninja log v5
+11	287	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/ffmpeg_hw.c.o	686ba4c61a7bea4b
+9	666	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/ffmpeg_filter.c.o	5eef81eaf5174d9e
+7	729	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/cmdutils.c.o	cdbaa9811e9f58f1
+0	1193	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/ffmpeg-cmd.cpp.o	ef7d33dd25594bd4
+14	1295	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/ffmpeg_opt.c.o	6be9d04e2ccb612
+5	1926	0	CMakeFiles/ffmpeg-cmd.dir/ffmpeg/ffmpeg.c.o	4a18fe6a0747a156
+1928	2168	0	D:/Gitbub/AndroidTranscoder/app/build/intermediates/cmake/release/obj/arm64-v8a/libffmpeg-cmd.so	6a9f468352a2063c
